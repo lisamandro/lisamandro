@@ -3,9 +3,6 @@ Currently a senior Computer Science student in Hyderabad, India. I believe in de
 
 📫 How to reach me : mandrolisa@gmail.com
 
-🚀 Codes in : Python, C, HTML
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lisamandro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lisamandro) 
 
