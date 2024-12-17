@@ -1,3 +1,5 @@
+<h1>About Me!</h1>
+
 Currently a Computer Science student in Hyderabad, India. 
 
 I believe in design quality and always pay attention to details. 
@@ -6,7 +8,7 @@ Obsessed with creating functional and user friendly SaaS products.
 
 
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Current Tech Stack</h2>
 
 <div align="center">
 </div>
