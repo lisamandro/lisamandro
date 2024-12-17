@@ -8,6 +8,7 @@
 
 
 
+
 <h2 align="left">💻Current Tech Stack</h2>
 
 <div align="center">
@@ -40,5 +41,10 @@
 </div>
 
 ###
+
+
+<div align="center">
+</div>
+Feel free to 📧 [Email Me](mailto:mandrolisa@gmail.com)
 
 
