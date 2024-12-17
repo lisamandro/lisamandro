@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently a senior Computer Science student in Hyderabad, India. I believe in design quality and always pay attention to details. Obsessed with creating functional and user friendly SaaS products.
+Currently a Computer Science student in Hyderabad, India. 
+I believe in design quality and always pay attention to details. 
+Obsessed with creating functional and user friendly SaaS products.
 
 📫 How to reach me : mandrolisa@gmail.com
 
