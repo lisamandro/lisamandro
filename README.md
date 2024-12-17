@@ -20,7 +20,6 @@
 </div>
 
 
-
 <h2 align="left">💻 Current Tech Stack</h2>
 
 <div align="center">
@@ -53,6 +52,13 @@
 </div>
 
 ###
+
+
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lisamandro?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 
 
 
