@@ -51,15 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
-###
-
-
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lisamandro?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-
-
 
 
 
