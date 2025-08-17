@@ -6,7 +6,7 @@
 --------------------------------------------------
 <p align="center">
   🤔 <strong>What is Lisa up to right now?</strong> <br>
-  Exploring backend development and conquering my fear of DSA (and loving every bit of it!).
+  Exploring backend development, learning Java and conquering my fear of DSA (and loving every bit of it!)
 </p>
 
 <p align="center">
